@@ -29,6 +29,7 @@
         <name>localhost.localdomain-releases</name>
         <url>http://localhost:8082/artifactory/devopsschool-local-release</url>
     </repository>
+  
     <snapshotRepository>
         <id>devopsschool</id>
         <name>localhost.localdomain-snapshots</name>
