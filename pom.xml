@@ -37,5 +37,4 @@
         <url>http://localhost:8082/artifactory/devopsschool-local-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
-
 </project>
