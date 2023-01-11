@@ -37,11 +37,5 @@
         <url>http://localhost:8082/artifactory/devopsschool-local-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
-  <plugins>
-    <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>9.8</version>
-    </plugin>
-</plugins>
+
 </project>
